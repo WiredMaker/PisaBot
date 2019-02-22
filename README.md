@@ -17,11 +17,17 @@ List of parts used:
 2 x Hex coupling, 30 mm length, 5 mm hole diameter.
 
 2 x RC wheels 1/10 Off Road Hex 12mm. Tires Outside Diameter: 85mm and Rim Width: 34mm.
+
 2 x Rubber Bumpers Pads
+
 1 x JJrobots Electronic Brain Shield
+
 1 x MPU-6050 (gyroscope and accelerometer)
+
 2 x A4988 stepper motor drivers
+
 1 x Arduino Leonardo
+
 M3 stainless steel button head screws
 
 Download the chassis parts to 3D print:
