@@ -8,9 +8,8 @@ The Arduino code and smartphone app are from JJrobots’ B-ROBOT EVO 2 and unmod
 
 List of parts used:
 
-1 x Double Shaft Stepper Motor 42mm Nema 17 1.7A 17HS4401B
-
-2 x LiitoKala 18650 3400mAh rechargeable battery 3.7V Li-ion
+* 1 x Double Shaft Stepper Motor 42mm Nema 17 1.7A 17HS4401B
+* 2 x LiitoKala 18650 3400mAh rechargeable battery 3.7V Li-ion
 
 1 x 18650 battery case with 2 slots
 
