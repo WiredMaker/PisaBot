@@ -2,7 +2,7 @@
 A self-balancing robot with a single stepper motor.
 This is a novelty (according to my research) for a self-balancing robot which uses a single stepper motor with dual shaft. I named it the PisaBot based on the famous Leaning Tower of Pisa. The inspiration for the robot name is from the constant forwards and backwards rocking motion to keep its balance so the robot is leaning most of the time in either directions along one plane.
             
-I designed the chassis in Autodesk Inventor Pro (except for the Pisa Tower cover which i modified from [utechlab](https://www.thingiverse.com/thing:1129396)) and then 3D printed all the parts. This is the final version after more than a dozen prototypes in order to shrink the overall design and reduce the robot’s height (minus the cover) to keep the centre of gravity as low as possible.
+I designed the chassis in Autodesk Inventor Pro (except for the Pisa Tower cover which i modified from [utechlab](https://www.thingiverse.com/thing:1129396)) and then 3D printed all the parts. This is the final version after more than a dozen prototypes with the objective to shrink the overall design and reduce the robot’s height (minus the cover) to keep the centre of gravity as low as possible.
 
 The Arduino code and smartphone app are from JJrobots’ B-ROBOT EVO 2 and unmodified. But the PisaBot can currently only move forwards and backwards since there is no turning mechanism. The “PRO” mode also works to give more power.
 
