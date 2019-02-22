@@ -4,7 +4,10 @@ This is a novelty (according to my research) for a self-balancing robot which us
 
 I designed the chassis in Autodesk Inventor Pro (except for the Pisa Tower cover which i modified from [utechlab](https://www.thingiverse.com/thing:1129396) in Tinkercad) and then 3D printed all the parts. This is the final version after more than a dozen prototypes with the objective to shrink the overall design and especially reduce the robot’s height (minus the cover) to keep the centre of gravity as low as possible.
 
-The Arduino code and smartphone app are from JJrobots’ B-ROBOT EVO 2 and unmodified. But the PisaBot can currently only move forwards and backwards since there is no turning mechanism. The “PRO” mode also works to give more power.
+The Arduino code together with the controller smartphone app are from JJrobots’ B-ROBOT EVO 2 and both are completely unmodified. The “PRO” mode also works to give more power.
+
+Limitation:
+The PisaBot can only move forwards and backwards since there is no turning mechanism. I have an idea on how to add a mechanism to make it turn and i plan to implement it when i have some free time.
 
 List of parts used:
 
