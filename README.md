@@ -6,7 +6,7 @@ I designed the chassis in Autodesk Inventor Pro (except for the Pisa Tower cover
 
 The Arduino code together with the controller smartphone app are from JJrobots’ B-ROBOT EVO 2 and both are completely unmodified. The “PRO” mode also works to give more power.
 
-Limitation:
+Delimitation:
 The PisaBot can only move forwards and backwards since there is no turning mechanism. I have an idea on how to add a mechanism to make it turn and i plan to implement it when i have some free time.
 
 List of parts used:
