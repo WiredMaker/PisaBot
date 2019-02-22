@@ -7,10 +7,15 @@ I designed the chassis in Autodesk Inventor Pro (except for the Pisa Tower cover
 The Arduino code and smartphone app are from JJrobots’ B-ROBOT EVO 2 and unmodified. But the PisaBot can currently only move forwards and backwards since there is no turning mechanism. The “PRO” mode also works to give more power.
 
 List of parts used:
+
 1 x Double Shaft Stepper Motor 42mm Nema 17 1.7A 17HS4401B
+
 2 x LiitoKala 18650 3400mAh rechargeable battery 3.7V Li-ion
+
 1 x 18650 battery case with 2 slots
+
 2 x Hex coupling, 30 mm length, 5 mm hole diameter.
+
 2 x RC wheels 1/10 Off Road Hex 12mm. Tires Outside Diameter: 85mm and Rim Width: 34mm.
 2 x Rubber Bumpers Pads
 1 x JJrobots Electronic Brain Shield
