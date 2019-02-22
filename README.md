@@ -25,7 +25,6 @@ List of parts used:
 * M3 stainless steel button head screws
 
 Download the chassis parts to 3D print:
-
 https://www.thingiverse.com/thing:3045793
 
 The washer (for each bumper on the front and back side of the robot) goes into the rubber bumper hole so that you can use an M3 screw to hold it tightly to the motor mounting plate extension that juts out in the front and back. The selected wheels allow the motor and chassis to stay above ground as high as possible without the outer diameter rubbing against the electronics plate. You could also use some other wheels but keep the outer diameter under 90 mm.
