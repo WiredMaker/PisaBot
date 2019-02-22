@@ -7,6 +7,7 @@ I designed the chassis in Autodesk Inventor Pro (except for the Pisa Tower cover
 The Arduino code together with the controller smartphone app are from JJrobots’ B-ROBOT EVO 2 and both are completely unmodified. The “PRO” mode also works to give more power.
 
 Delimitation:
+
 The PisaBot can only move forwards and backwards since there is no turning mechanism. I have an idea on how to add a mechanism to make it turn and i plan to implement it when i have some free time.
 
 List of parts used:
@@ -24,6 +25,7 @@ List of parts used:
 * M3 stainless steel button head screws
 
 Download the chassis parts to 3D print:
+
 https://www.thingiverse.com/thing:3045793
 
 The washer (for each bumper on the front and back side of the robot) goes into the rubber bumper hole so that you can use an M3 screw to hold it tightly to the motor mounting plate extension that juts out in the front and back. The selected wheels allow the motor and chassis to stay above ground as high as possible without the outer diameter rubbing against the electronics plate. You could also use some other wheels but keep the outer diameter under 90 mm.
